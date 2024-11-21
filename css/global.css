@@ -1,0 +1,54 @@
+@import url(reset.css); /* Import the meyer's CSS reset with my modification */
+
+:root {
+  font-size: 16px;
+}
+
+body {
+  font-family: "A font", sans-serif;
+  font-size: 1rem; /* En REM */
+  font-weight: 400; /* 400 = regular, 500 = medium, 700 = bold*/
+  font-style: normal;
+  line-height: 1.5; /* Chiffre multiplicateur (Line-height pt / font-size pt) */
+  color: #303030;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Another Font", serif;
+  font-weight: 700;
+  font-style: normal;
+  line-height: 1;
+  color: #101010;
+}
+
+nav a:link,
+nav a:visited {
+  text-decoration: none;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+ul a:hover,
+ul a:active {
+  text-decoration: underline;
+}
+
+.container {
+  max-width: 1000px; /* Change the px for the number need to avid going ultrawide */
+  margin: 0 auto; /* Make sure the whole container is in the center */
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-navbar {
+  justify-content: flex-end;
+}
