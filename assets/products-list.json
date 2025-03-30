@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Harry Potter: Dobby",
+    "description": "Dobby standing in the mist",
+    "price": 29.99,
+    "image_link": "../assets/img/hp-dobby.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Harry Potter: The Houses",
+    "description": "Logo's of the Houses of Pourdlard",
+    "price": 49.99,
+    "image_link": "../assets/img/hp-house.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Loney Tunes: TV Crashing",
+    "description": "the Loney Toons getting out of a television",
+    "price": 39.99,
+    "image_link": "../assets/img/lt-tv.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Rick and Morty: Banana",
+    "description": "Rick as a banana, quoting his opinion",
+    "price": 19.99,
+    "image_link": "../assets/img/rm-banana.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Rick and Morty: Spaceship",
+    "description": "The spaceship used by Rick with a green gooey laser",
+    "price": 25.99,
+    "image_link": "../assets/img/rm-ovni.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Scooby Doo: Traveling in car",
+    "description": "The Scooby Doo squad in a their car",
+    "price": 5.99,
+    "image_link": "../assets/img/sb-car.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Superman: Flying throught the city",
+    "description": "Superman is flying towards you",
+    "price": 19.99,
+    "image_link": "../assets/img/sm-fly.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Superman: Posing for victory",
+    "description": "Superman is Posing after a victory, watching for more criminals",
+    "price": 14.99,
+    "image_link": "../assets/img/sm-stand.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Suicide Squad: Harley Quinn",
+    "description": "Harley Quin posing with little Harley all around the head",
+    "price": 27.99,
+    "image_link": "../assets/img/ss-kiss.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Shazam: Showing Off!",
+    "description": "Shazam zapping his muscle",
+    "price": 9.99,
+    "image_link": "../assets/img/sz-muscle.jpg"
+  }
+]

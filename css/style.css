@@ -1,0 +1,58 @@
+:root {
+  --primary: #0d6efd;
+  --bs-icon-link-transform: translate3d(0,-0.5rem,0);
+}
+
+.hero-bg {
+  background: url(../assets/img/hero2.jpg) no-repeat center center;
+  height: 100vh;
+  background-size: cover;
+}
+
+.navbg {
+  background-size: 100% 100%;
+  background-position: 0px 0px;
+  background-image: linear-gradient(0deg, #ffffff00 50%, var(--primary) 60%);
+}
+
+.back-to-start {
+  height: 60px;
+  width: 60px;
+}
+
+#retour-haut {
+  transition-property: all;
+  transition-duration: 1s;
+}
+
+.modal-dialog {
+ max-width: 60vw;
+}
+
+#legalMention .modal-dialog {
+  max-width: 100vw;
+}
+
+body {
+  background: url("/assets/img/paperTextureNeg-2.jpg") no-repeat;
+  background-size: cover;
+}
+
+svg {
+  pointer-events: none;
+}
+
+#retour-haut div:last-of-type {
+  width: 75px;
+  height: 75px;
+}
+
+#retour-haut div:first-of-type {
+  position:relative;
+  left: 20px;
+  z-index: -1;
+}
+#help-follow {
+  text-align: left;
+  width: 60px;
+}
